@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eyesoree/eyesoree/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eyesoreee/eyesoreee/output/snake.svg" alt="Snake animation" />
 
 ###
